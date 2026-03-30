@@ -1,3 +1,12 @@
+---
+category: private
+description: yql-tables — private project
+name: yql-tables
+updated_at: '2026-03-30'
+zone: personal
+---
+
+
 # yql-tables
 
 ## Workspace Rules
@@ -8,8 +17,6 @@
 > yql-tables
 
 ## Tech Stack
-
-
 
 ## Development Commands
 
@@ -37,3 +44,6 @@
 ## Key Files
 
 - See project structure above
+
+## Brain Lessons
+<!-- brain:managed — do not edit manually, Brain Service updates this section -->
