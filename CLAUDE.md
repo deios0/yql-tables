@@ -45,5 +45,9 @@ zone: personal
 
 - See project structure above
 
+## Dev Protocol
+
+See `Hub/playbook/dev-protocol.md` for the canonical Dev Protocol (git workflow, testing, secrets, authorship, Brain/learning hooks, cross-project boundaries).
+
 ## Brain Lessons
 <!-- brain:managed — do not edit manually, Brain Service updates this section -->
