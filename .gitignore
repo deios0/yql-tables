@@ -1,3 +1,18 @@
 *.swp
 .DS_Store
 *info
+# build / log / cache artifacts — untracked by hygiene pass 2026-06-02
+node_modules/
+dist/
+build/
+.next/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+htmlcov/
+.coverage
+*.pyc
+*.pyo
+*.log
+.DS_Store
